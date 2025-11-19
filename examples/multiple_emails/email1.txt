@@ -1,0 +1,3 @@
+Received-SPF: pass (domain.com)
+DKIM-Signature: abcdef12345
+Authentication-Results: dmarc=pass
